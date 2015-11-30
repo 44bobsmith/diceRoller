@@ -1,0 +1,17 @@
+body {
+    font-family: Helvetica, sans-serif;
+    }
+
+
+p  {
+    color: white;
+    }
+
+
+#outputSpace {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+  color: green;
+  border: 3px solid black;
+}
