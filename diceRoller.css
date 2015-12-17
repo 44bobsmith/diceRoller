@@ -1,0 +1,15 @@
+body {
+  font-family:helvetica;
+}
+
+#output {
+  height: 600px;
+  width: 600px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#diceSelection {
+  padding-top: 225px;
+}
